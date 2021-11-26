@@ -27,6 +27,7 @@ Como avaliaremos esses requisitos, permitiremos que você decida como projetá-l
 
 - Bibliotecas e padrões indispensáveis
 - React-native 0.65 ou superior
+- TypeScript
 - Axios / Fetch
 - <b>UTILIZE STYLED COMPONENTS</b>
 - Hooks
